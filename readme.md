@@ -10,3 +10,6 @@
 
 ## Tools
 - Google Collaboratory
+
+## Appendix
+[For full version (report and infographic)](https://drive.google.com/drive/folders/1a8pbFQMafG6C42XwRYvKUJqJ7z5oX8BR?usp=drive_link) 
